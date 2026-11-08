@@ -61,4 +61,4 @@ Previous hackathon participation and the number of skills listed had positive as
 
 ## 6. Recorded Walkthrough
 
-[Insert link to recorded project walkthrough here]
+https://github.com/Mwelwa-ka/NextGen-Learners-Internship-Oct-26-Mwelwa-Kashingwa/blob/main/NextGen%20learners%20oct%20batch%2001%202026%20week%204%20Mwelwa%20Kashingwa.mp4
